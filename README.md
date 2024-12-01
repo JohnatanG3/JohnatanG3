@@ -21,7 +21,6 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
     </a>
 </p>
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
