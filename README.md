@@ -152,7 +152,7 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
     src="https://github-readme-stats.vercel.app/api?username=JohnatanG3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img
-      align="left-center" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanG3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
