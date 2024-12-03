@@ -5,14 +5,26 @@
 Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStack com experiência em tecnologias como React, Node.js, Python e Java. Apaixonado por resolver problemas e criar soluções inovadoras, busco sempre aprender e aplicar novas habilidades para contribuir em projetos impactantes.
 
 <p align="left">
-    <a href="https://github.com/JohnatanG3?tab=repositories&sort=stargazers">
+      <a href = "mailto:johnatan.g3@gmail.com">
+          <img 
+              alt="Gmail" 
+              title="Meu Gmail" 
+              src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      </a>
+      <a href="https://www.linkedin.com/in/johnatan-vieira-a602542aa/" target="_blank">
+          <img 
+              alt="Linkedin" 
+              title="Meu Linkedin" 
+              src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a> 
+        <a href="https://github.com/JohnatanG3?tab=repositories&sort=stargazers" target="_blank">
         <img
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/JohnatanG3?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/JohnatanG3?tab=followers">
+    <a href="https://github.com/JohnatanG3?tab=followers" target="_blank">
         <img
             alt="Seguidores" 
             title="Me siga no GitHub" 
