@@ -152,6 +152,14 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
 <br/>
 <br/>
 
+### 👨🏻‍💻 Portfólio
+
+- [Cadastro de Usuários](https://github.com/JohnatanG3/cadastro-usuarios)
+- [Carrossel Infinito](https://github.com/JohnatanG3/carrosel-infinito)
+- [Tela de Login do Instagram](https://github.com/JohnatanG3/instagram-tailwind-css)
+- [Carrossel Animado](https://github.com/JohnatanG3/site-com-carrosel-animado)
+- [Bootstrap Demo](https://github.com/JohnatanG3/site-bootstrap-demo)
+
 ### 📊 Estatísticas
 
 <p>
