@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
           <img 
               alt="Gmail" 
               title="Meu Gmail" 
-              src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+              src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       </a>
       <a href="https://www.linkedin.com/in/johnatan-vieira-a602542aa/" target="_blank">
           <img 
@@ -183,3 +183,5 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanG3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![snake gif](https://github.com/JohnatanG3/JohnatanG3/blob/output/github-contribution-grid-snake.gif)
