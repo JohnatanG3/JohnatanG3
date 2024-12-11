@@ -184,4 +184,4 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
   />
 </p>
 
-![snake gif](https://github.com/JohnatanG3/JohnatanG3/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JohnatanG3/JohnatanG3/blob/output/github-contribution-grid-snake.gif)
