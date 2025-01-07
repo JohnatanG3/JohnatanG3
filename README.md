@@ -188,7 +188,7 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
 
 ### 👨🏻‍💻 Portfólio
 
-- [Página de Filmes com React](https://github.com/JohnatanG3/react-dev-filmes?tab=readme-ov-file)
+- [Página de Filmes com React](https://github.com/JohnatanG3/react-dev-filmes)
 - [Cadastro de Usuários Com React](https://github.com/JohnatanG3/cadastro-usuarios-react)
 - [Previsão do Tempo com React](https://github.com/JohnatanG3/previsao-tempo-react)
 - [Tradutor com React](https://github.com/JohnatanG3/tradutor-dev?tab=readme-ov-file)
