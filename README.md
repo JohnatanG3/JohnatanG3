@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStack com experiência em tecnologias como React, Node.js, Python e Java. Apaixonado por resolver problemas e criar soluções inovadoras, busco sempre aprender e aplicar novas habilidades para contribuir em projetos impactantes.
+Sou estudante de Ciência da Computação, atualmente no 7º período pela Pontifícia Universidade Católica de Goiás, com previsão de conclusão em dezembro de 2026. Apaixonado por resolver problemas complexos e criar soluções inovadoras, estou em busca de oportunidades no mercado de trabalho, seja como Estagiário ou Desenvolvedor Full Stack Júnior, onde eu possa aplicar e expandir minhas habilidades técnicas, contribuindo para o sucesso de projetos desafiadores.
 
 <p align="left">
       <a href = "mailto:johnatan.g3@gmail.com">
