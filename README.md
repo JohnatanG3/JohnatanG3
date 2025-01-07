@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação na PUC Goiás e desenvolvedor FullStac
               title="Meu Gmail" 
               src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       </a>
-      <a href="https://www.linkedin.com/in/johnatan-vieira-a602542aa/" target="_blank">
+      <a href="https://www.linkedin.com/in/johnatan-felipe-vieira/" target="_blank">
           <img 
               alt="Linkedin" 
               title="Meu Linkedin" 
