@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Ciência da Computação, atualmente no 7º período pela Pontifícia Universidade Católica de Goiás, com previsão de conclusão em dezembro de 2026. Apaixonado por resolver problemas complexos e criar soluções inovadoras, estou em busca de oportunidades no mercado de trabalho, seja como Estagiário ou Desenvolvedor Full Stack Júnior, onde eu possa aplicar e expandir minhas habilidades técnicas, contribuindo para o sucesso de projetos desafiadores.
+Sou estudante de Ciência da Computação, atualmente no 8º período pela Pontifícia Universidade Católica de Goiás, com previsão de conclusão em dezembro de 2026. Apaixonado por resolver problemas complexos e criar soluções inovadoras, estou em busca de oportunidades no mercado de trabalho, seja como Estagiário ou Desenvolvedor Full Stack Júnior, onde eu possa aplicar e expandir minhas habilidades técnicas, contribuindo para o sucesso de projetos desafiadores.
 
 <p align="left">
       <a href = "mailto:johnatan.g3@gmail.com">
@@ -151,6 +151,22 @@ Sou estudante de Ciência da Computação, atualmente no 7º período pela Ponti
 />
 <img
     align="left" 
+    alt="Fastify" 
+    title="Fastify"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+<img
+    align="left" 
     alt="Axios" 
     title="Axios"
     width="30px" 
@@ -210,7 +226,7 @@ Sou estudante de Ciência da Computação, atualmente no 7º período pela Ponti
     src="https://github-readme-stats.vercel.app/api?username=JohnatanG3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img
+  <img
       align="left"
       alt="GitHub Stats"
       height="200"
