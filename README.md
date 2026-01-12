@@ -37,8 +37,8 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 
 ---
 
-### 🚀 Stack Principal
-<p>Back-End</p>
+## 🚀 Stack Principal
+#### Back-End
 
 <img
     align="left" 
@@ -95,7 +95,7 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 />
 <br>
 <br>
-<p>Bancos de Dados</p>
+#### Bancos de Dados
 
 <img
     align="left" 
@@ -126,7 +126,7 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 <br>
 <br>
 
-<p>Front-End</p>
+#### Front-End
 
 <img
     align="left" 
@@ -201,7 +201,9 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 />
 <br>
 <br>
-<p>Linguagens de Programação</p>
+
+#### Linguagens de Programação
+
 <img
     align="left" 
     alt="JavaScript" 
@@ -256,7 +258,8 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 />
 <br>
 <br>
-<p>DevOps & Ferramentas</p>
+
+#### DevOps & Ferramentas
 
 <img
     align="left" 
@@ -317,7 +320,7 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 
 ---
 
-📌 Projetos em Destaque
+### 📌 Projetos em Destaque
 
 🔹 Sistema de Help Desk (TCC)
 Aplicação Full Stack com Next.js no front-end e Node.js no back-end, com autenticação, controle de usuários e integração completa com API.
