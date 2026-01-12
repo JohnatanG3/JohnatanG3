@@ -69,6 +69,15 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 
 <img
     align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+
+<img
+    align="left" 
     alt="Prisma" 
     title="Prisma"
     width="30px" 
@@ -263,8 +272,8 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
 
 <img
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Docker / Docker Compose" 
+    title="Docker / Docker Compose"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
@@ -286,6 +295,51 @@ Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Biome" 
+    title="Biome"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="NPN" 
+    title="NPN"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="PNPM" 
+    title="PNPM"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Yarn" 
+    title="Yarn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
 />
 
 <img
