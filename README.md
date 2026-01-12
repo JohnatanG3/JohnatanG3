@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Ciência da Computação, atualmente no 8º período pela Pontifícia Universidade Católica de Goiás, com previsão de conclusão em dezembro de 2026. Apaixonado por resolver problemas complexos e criar soluções inovadoras, estou em busca de oportunidades no mercado de trabalho, seja como Estagiário ou Desenvolvedor Full Stack Júnior, onde eu possa aplicar e expandir minhas habilidades técnicas, contribuindo para o sucesso de projetos desafiadores.
+Sou estudante de Ciência da Computação (9º período) pela PUC Goiás, com conclusão prevista para dezembro de 2026. Atuo no desenvolvimento de aplicações Full Stack, com foco em Back-End, criando APIs REST, sistemas com autenticação, bancos de dados SQL e NoSQL e integração com front-ends em React e Next.js.
+
+Atualmente desenvolvo projetos próprios e acadêmicos — incluindo um sistema de Help Desk (TCC) — utilizando Node.js, TypeScript, Prisma, Sequelize, Mongoose, PostgreSQL, MongoDB, React, Next.js e Docker.
 
 <p align="left">
       <a href = "mailto:johnatan.g3@gmail.com">
@@ -35,7 +37,114 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Stack Principal
+<p>Back-End</p>
+
+<img
+    align="left" 
+    alt="Node"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Fastify" 
+    title="Fastify"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Mongoose"
+    title="Mongoose" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Sequelize"
+    title="Sequelize" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
+/>
+<br>
+<br>
+<p>Bancos de Dados</p>
+
+<img
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<br>
+<br>
+
+<p>Front-End</p>
+
+<img
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Next"
+    title="Next" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
 
 <img
     align="left" 
@@ -45,6 +154,7 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img
     align="left" 
     alt="CSS" 
@@ -53,6 +163,45 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<img
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Axios" 
+    title="Axios"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" 
+/>
+
+<img
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<br>
+<br>
+<p>Linguagens de Programação</p>
 <img
     align="left" 
     alt="JavaScript" 
@@ -69,54 +218,7 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img
     align="left" 
     alt="Python" 
@@ -125,6 +227,7 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img
     align="left" 
     alt="JAVA" 
@@ -133,54 +236,7 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img
-    align="left" 
-    alt="Vite" 
-    title="Vite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-<img
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Fastify" 
-    title="Fastify"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
-/>
-<img
-    align="left" 
-    alt="Axios" 
-    title="Axios"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" 
-/>
-<img
-    align="left" 
-    alt="Prisma" 
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
+
 <img
     align="left" 
     alt="C++" 
@@ -189,6 +245,7 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+
 <img
     align="left" 
     alt="C" 
@@ -197,8 +254,79 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<br>
+<br>
+<p>DevOps & Ferramentas</p>
+
+<img
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+
 <br/>
 <br/>
+
+---
+
+📌 Projetos em Destaque
+
+🔹 Sistema de Help Desk (TCC)
+Aplicação Full Stack com Next.js no front-end e Node.js no back-end, com autenticação, controle de usuários e integração completa com API.
+
+🔹 DevBurger API
+API REST para sistema de pedidos, desenvolvida com Node.js, Sequelize e PostgreSQL, com autenticação e criptografia de senhas.
+
+🔹 DevBills
+Sistema de controle financeiro com React, TypeScript e integração com back-end.
 
 ---
 
@@ -223,15 +351,15 @@ Sou estudante de Ciência da Computação, atualmente no 8º período pela Ponti
     alt="GitHub Stats"
     height="200"
     style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JohnatanG3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=johnatang3&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
   <img
       align="left"
-      alt="GitHub Stats"
+      alt="Top Langs"
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanG3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatang3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
