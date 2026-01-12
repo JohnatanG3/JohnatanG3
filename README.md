@@ -351,18 +351,17 @@ Sistema de controle financeiro com React, TypeScript e integração com back-end
 <p>
   <img
     align="left"
-    alt="GitHub Stats"
     height="200"
-    style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=johnatang3&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    style="padding-right: 8px;"
+    src="https://github-readme-stats.vercel.app/api?username=johnatang3&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="GitHub Stats"
   />
-
   <img
-      align="left"
-      alt="Top Langs"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatang3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatang3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Top Langs"
   />
 </p>
 
