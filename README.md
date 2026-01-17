@@ -389,6 +389,8 @@ Sistema de controle financeiro com React, TypeScript e integração com back-end
 
 ### 👨🏻‍💻 Portfólio
 
+- [DevBills Frontend com React e TypeScript](https://github.com/JohnatanG3/devbills-frontend)
+- [DevBills Backend com Node e TypeScript](https://github.com/JohnatanG3/devbills-backend)
 - [Página de Filmes com React](https://github.com/JohnatanG3/react-dev-filmes)
 - [Cadastro de Usuários Com React](https://github.com/JohnatanG3/cadastro-usuarios-react)
 - [Previsão do Tempo com React](https://github.com/JohnatanG3/previsao-tempo-react)
