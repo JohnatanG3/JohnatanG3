@@ -414,7 +414,7 @@ Sistema de controle financeiro com React, TypeScript e integração com back-end
     alt="GitHub Stats"
   />
   <img
-    width="37%"
+    width="40%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnatang3&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Langs"
   />
