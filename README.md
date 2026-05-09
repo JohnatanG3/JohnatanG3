@@ -379,8 +379,8 @@ Desenvolvo projetos próprios e acadêmicos — incluindo um sistema de Help Des
 🔹 Sistema de Help Desk (TCC)
 Aplicação Full Stack com Next.js no front-end e Node.js no back-end, com autenticação, controle de usuários e integração completa com API.
 
-🔹 DevBurger API
-API REST para sistema de pedidos, desenvolvida com Node.js, Sequelize e PostgreSQL, com autenticação e criptografia de senhas.
+🔹 DevBurger
+Backend com API REST para sistema de pedidos, desenvolvida com Node.js, Sequelize e PostgreSQL, com autenticação, criptografia de senhas, gerenciamento de usuários, produtos, categorias, pedidos e integração com pagamentos. Frontend da aplicação, com área pública para clientes e painel administrativo para gerenciamento interno.
 
 🔹 DevBills
 Sistema de controle financeiro com React, TypeScript e integração com back-end.
@@ -389,8 +389,11 @@ Sistema de controle financeiro com React, TypeScript e integração com back-end
 
 ### 👨🏻‍💻 Portfólio
 
+- [Help Desk com Next](https://github.com/JohnatanG3/helpdesk-with-next)
 - [DevBills Frontend com React e TypeScript](https://github.com/JohnatanG3/devbills-frontend)
 - [DevBills Backend com Node e TypeScript](https://github.com/JohnatanG3/devbills-backend)
+- [DevBurguer Frontend com React e JavaScript](https://github.com/JohnatanG3/DevBurguer-Interface)
+- [DevBurguer Backend com Node e JavaScript](https://github.com/JohnatanG3/DevBurguer-API)
 - [Página de Filmes com React](https://github.com/JohnatanG3/react-dev-filmes)
 - [Cadastro de Usuários Com React](https://github.com/JohnatanG3/cadastro-usuarios-react)
 - [Previsão do Tempo com React](https://github.com/JohnatanG3/previsao-tempo-react)
