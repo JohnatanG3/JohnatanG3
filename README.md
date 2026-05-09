@@ -407,16 +407,14 @@ Sistema de controle financeiro com React, TypeScript e integração com back-end
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
-    height="200"
+    width="49%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnatang3&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    align="left"
-    height="200"
+    width="37%"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnatang3&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Langs"
   />
