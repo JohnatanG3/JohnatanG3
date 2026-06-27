@@ -1,6 +1,6 @@
 ## 👨‍💻 Johnatan Vieira
 
-**`Desenvolvedor Full Stack | Foco em Back-End com Node.js`**
+**`Desenvolvedor Full Stack | Node.js, React & TypeScript`**
 
 Bacharel em Ciência da Computação pela PUC Goiás (conclusão em junho de 2026, colação de grau prevista para agosto de 2026).
 
