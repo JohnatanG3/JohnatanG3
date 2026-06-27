@@ -1,10 +1,14 @@
 ## 👨‍💻 Johnatan Vieira
 
-**`Desenvolvedor Full Stack | Node.js, React & TypeScript`**
+**`Desenvolvedor Full Stack | Foco em Back-End com Node.js`**
 
-Sou estudante de Ciência da Computação (10º período) pela PUC Goiás, com conclusão prevista para junho de 2026. Atuo no desenvolvimento de aplicações Full Stack, com foco em Back-End, criando APIs REST, autenticação, integração com bancos de dados SQL e NoSQL e consumo por front-ends em React e Next.js.
+Bacharel em Ciência da Computação pela PUC Goiás (conclusão em junho de 2026, colação de grau prevista para agosto de 2026).
 
-Desenvolvo projetos próprios e acadêmicos — incluindo um sistema de Help Desk (TCC) — utilizando Node.js, TypeScript, Prisma, Sequelize, Mongoose, PostgreSQL, MongoDB, React, Next.js e Docker, aplicando boas práticas de organização, versionamento e arquitetura.
+Desenvolvo aplicações Full Stack com foco em Back-End, criando APIs REST, sistemas de autenticação, integrações com bancos de dados SQL e NoSQL e aplicações consumidas por interfaces em React e Next.js.
+
+Tenho experiência com Node.js, TypeScript, Prisma, Sequelize, Mongoose, PostgreSQL, MongoDB, Docker, React e Next.js, aplicando boas práticas de arquitetura, versionamento e organização de código.
+
+Atualmente desenvolvo projetos próprios e acadêmicos, incluindo um sistema de Help Desk, buscando evoluir continuamente minhas habilidades em desenvolvimento Back-End e Full Stack.
 
 <p align="left">
       <a href = "mailto:johnatan.g3@gmail.com">
