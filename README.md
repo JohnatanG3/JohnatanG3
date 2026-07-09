@@ -312,8 +312,8 @@ Atualmente desenvolvo projetos próprios e acadêmicos, incluindo um sistema de 
 
 <img
     align="left" 
-    alt="NPN" 
-    title="NPN"
+    alt="NPM" 
+    title="NPM"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" 
