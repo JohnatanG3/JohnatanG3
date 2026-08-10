@@ -1,14 +1,18 @@
 ## 👨‍💻 Johnatan Vieira
 
-**`Desenvolvedor Full Stack | Node.js, React & TypeScript`**
+**`Desenvolvedor Full Stack | JavaScript, TypeScript, Node.js & React`**
 
-Bacharel em Ciência da Computação pela PUC Goiás (conclusão em junho de 2026, colação de grau prevista para agosto de 2026).
+Bacharel em Ciência da Computação pela PUC Goiás.
 
-Desenvolvo aplicações Full Stack com foco em Back-End, criando APIs REST, sistemas de autenticação, integrações com bancos de dados SQL e NoSQL e aplicações consumidas por interfaces em React e Next.js.
+Desenvolvo aplicações Full Stack utilizando JavaScript e TypeScript, trabalhando tanto no Back-End com Node.js quanto no Front-End com React e Next.js.
 
-Tenho experiência com Node.js, TypeScript, Prisma, Sequelize, Mongoose, PostgreSQL, MongoDB, Docker, React e Next.js, aplicando boas práticas de arquitetura, versionamento e organização de código.
+Tenho experiência com Node.js, Express, Fastify, TypeScript, Prisma, Sequelize, Mongoose, PostgreSQL, MySQL, MongoDB, React, Next.js e Docker, desenvolvendo APIs REST, sistemas de autenticação, integrações com bancos de dados SQL e NoSQL e interfaces modernas.
 
-Atualmente desenvolvo projetos próprios e acadêmicos, incluindo um sistema de Help Desk, buscando evoluir continuamente minhas habilidades em desenvolvimento Back-End e Full Stack.
+Entre meus principais projetos está um sistema completo de Help Desk desenvolvido para o Centro de Educação a Distância da PUC Goiás como TCC, envolvendo autenticação, gerenciamento de tickets, mensagens, uploads, dashboard administrativo e integração entre Front-End, Back-End e banco de dados.
+
+Mantenho este perfil com projetos próprios e acadêmicos desenvolvidos durante minha formação, buscando aplicar boas práticas de arquitetura, versionamento com Git, organização e qualidade de código.
+
+Busco minha primeira oportunidade profissional como Desenvolvedor Júnior, com interesse em posições Full Stack, Back-End ou Front-End.
 
 <p align="left">
       <a href = "mailto:johnatan.g3@gmail.com">
